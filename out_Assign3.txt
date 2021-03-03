@@ -1,0 +1,40 @@
+     First       Last
+0      Tom     Horton
+1    Patti       Hart
+2    Jamie      Dimon
+3    Steve      Cohen
+4      Tim       Cook
+5    Steve       Jobs
+6   Daniel  Doctoroff
+7    Laura       Lang
+8   Andrew      Mason
+9  Jeffrey   Gundlach
+                               Name
+0                        Abaxis Inc
+1                     ACA Financial
+2         Alibaba Group Holding Ltd
+3        American Bell Telephone Co
+4               American Express Co
+5  American International Group Inc
+6                         Apple Inc
+7                      Audience Inc
+8                 Avis Budget Group
+9                      Bakrie Group
+  Percentage
+0        66%
+1        40%
+2        90%
+3        49%
+4       100%
+5        37%
+6         8%
+7        50%
+8       500%
+9        11%
+First    True
+Last     True
+dtype: bool
+Name    False
+dtype: bool
+Percentage    False
+dtype: bool
